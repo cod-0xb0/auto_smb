@@ -10,4 +10,6 @@ shodan init YOUR_API_KEY
 # Run the script
 python3 auto_smb.py
 
+# Tested on Python 3.11.4 & Kali Linux (WSL)
+
 # HAVE A HAPPY HUNTING
